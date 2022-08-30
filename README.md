@@ -46,5 +46,5 @@ And created next features:
 
 ### Summary
 
-This is a personal project which available on [Ludum Dare](https://ldjam.com/events/ludum-dare/50/chtonic-arhipelago). 
+This is a small project which available on [Ludum Dare](https://ldjam.com/events/ludum-dare/50/chtonic-arhipelago). 
 This game was made for 3 days in a small team of two programmers and one artist.
