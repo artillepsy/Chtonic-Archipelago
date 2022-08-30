@@ -4,7 +4,7 @@
 
 ### Description
 
-Delay the inevitable by trying to survive as long as possible on an archipelago of small islands.
+This game is a 2D survival on PC. You should delay the inevitable by trying to survive as long as possible on an archipelago of small islands.
 The whole world is consumed by Chthon, so don’t stay in one place for long.
 Gather resources, repair tools and try not to be consumed by this ruthless substance.
 
